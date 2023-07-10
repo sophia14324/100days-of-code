@@ -1,3 +1,3 @@
-# 100days-of-code
+# 100 days of code
 
-## Python Concs
+This repository is dedicated to the "100 Days of Code" challenge in Python.
