@@ -4,14 +4,13 @@ def guess_the_number():
     # Generate a random number between 1 and 100
     secret_number = random.randint(1, 100)
     
-    # Set the number of attempts allowed
+    # number of attempts allowed
     max_attempts = 5
     attempts = 0
     
     print("Welcome to the Guess the Number Game!")
     print("I'm thinking of a number between 1 and 100.")
     
-    # Start the game loop
     while attempts < max_attempts:
         try:
             # Get the player's guess
