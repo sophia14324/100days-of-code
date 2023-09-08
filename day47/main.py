@@ -14,6 +14,7 @@ def read_barcodes(frame):
         with open("barcode_result.txt", mode ='w') as file:
             file.write("Recognized Barcode:" + barcode_info)
     return frame
+
     
 def main():
     camera = cv2.VideoCapture(0)
