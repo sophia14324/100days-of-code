@@ -1,3 +1,3 @@
-# 100 days of code
+# Python Projects
 
-This repository is dedicated to the "100 Days of Code" challenge in Python.
+This repository is dedicated to the coding challenges in Python.
